@@ -1,4 +1,5 @@
-<h2> <em> DXTEC2 </h2> <h4> automatización de terapia kinesiológica </em> </h4>
+<h2> <em> DXTEC2 </h2> <h4> Proyecto para automatización de terapia kinesiológica. </em> </h4>
+<p>
 <br>
 <img width="1440" alt="" src="https://user-images.githubusercontent.com/80835593/223196075-f8228dd2-9154-4072-b470-a3810bd52e8e.png">
 <img width="1440" alt="" src="https://user-images.githubusercontent.com/80835593/208701561-47dfd9ae-e01f-4875-80e1-b7f838911795.jpg">
